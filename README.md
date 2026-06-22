@@ -29,7 +29,7 @@ If you want to join our team and help, then feel free to check the issue list fo
 
 The Microsoft 365 Assessment tool in an open-source tool maintained by Microsoft and the community. When you do have a Premier support contract with Microsoft, you can use that route for opening a support ticket. When opening a support ticket is not possible for you, then please report any issues using the [issues list](https://github.com/pnp/pnpassessment/issues).
 
-## Relationship with the "Modernization Scanner" ❓
+## Modernization Scanner capabilities now available in M365 Assessment tool 🎉
 
 As of version 1.15.0 the Microsoft 365 Assessment tool supports the **full classic page scan functionality** of the [Modernization Scanner](https://aka.ms/sharepoint/modernization/scanner) — classic page discovery and typing (Web Part, Wiki, Blog and Publishing pages), live web-part extraction, modernization readiness scoring, page-layout detection, usage statistics, and the per-web / per-site-collection summaries. The ported capability has been validated field-for-field against the legacy scanner on a live tenant across all four classic page types, with **significantly better performance and scale**. The [Modernization Scanner](https://aka.ms/sharepoint/modernization/scanner) should only be used if a needed module is not yet available as part of the Microsoft 365 Assessment tool.
 
